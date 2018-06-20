@@ -1,4 +1,4 @@
-Write a MapReduce program in Spark that implements a simple “Mutual/Common friend list of two friends". The key idea is that if two people are friend then they have a lot of mutual/common friends. This question will give any two Users as input, output the list of the user id of their mutual friends.
+Write a MapReduce program in Hadoop/Spark that implements a simple “Mutual/Common friend list of two friends". The key idea is that if two people are friend then they have a lot of mutual/common friends. This question will give any two Users as input, output the list of the user id of their mutual friends.
 
 For example,
 Alice’s friends are Bob, Sam, Sara, Nancy
